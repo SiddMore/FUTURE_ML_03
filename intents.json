@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": ["Hi", "Hello", "Hey", "Good morning", "Is anyone there?"],
+    "responses": ["Hello! Welcome to Customer Support. How can I help you today?", "Hi there! I'm your virtual assistant. What do you need help with?"]
+  },
+  {
+    "tag": "order_status",
+    "patterns": ["Where is my order?", "Check order status", "Track my package", "Has my item shipped?"],
+    "responses": ["You can track your order status by visiting the 'My Orders' section in your profile. Do you need a direct link?", "Please provide your Order ID, and I can look that up for you."]
+  },
+  {
+    "tag": "return_policy",
+    "patterns": ["I want to return an item", "What is your return policy?", "Can I get a refund?", "How do I send something back?"],
+    "responses": ["We have a 30-day return policy. If the item is unused, you can initiate a return via the Support page.", "Returns are accepted within 30 days. Would you like me to guide you through the process?"]
+  },
+  {
+    "tag": "payment_issue",
+    "patterns": ["My payment failed", "Why was I charged twice?", "Credit card not working", "Payment error"],
+    "responses": ["I'm sorry to hear that. Please ensure your card details are correct. If the issue persists, contact your bank or try a different payment method.", "Double charges are usually refunded automatically within 24 hours. If not, please contact our billing team."]
+  },
+  {
+    "tag": "contact_human",
+    "patterns": ["I want to talk to a person", "Connect me to an agent", "Real human please", "Customer service number"],
+    "responses": ["I can connect you to a live agent. Please wait a moment while I check availability...", "Our support team is available from 9 AM to 5 PM. You can also email us at support@example.com."]
+  },
+  {
+    "tag": "thanks",
+    "patterns": ["Thank you", "Thanks", "That helps", "Awesome"],
+    "responses": ["You're welcome! Happy to help.", "No problem! Let me know if you need anything else."]
+  }
+]
