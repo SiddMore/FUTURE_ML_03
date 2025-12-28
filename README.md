@@ -50,6 +50,16 @@ A smart, NLP-based chatbot built with **Python** and **Streamlit**. This bot use
 This project is fully deployed using **Streamlit Cloud**.
 👉 **[Click here to chat with the bot](https://customersupportbot01.streamlit.app/)**
 
+
+## 🧪 Sample Questions to Try
+Since this bot runs on a predefined dataset, try asking these specific questions to see how it responds:
+
+* **Orders:** "Where is my order?" or "Track my package"
+* **Returns:** "I want to return an item" or "What is your return policy?"
+* **Payments:** "My payment failed" or "Why was I charged twice?"
+* **Support:** "I want to talk to a person" or "Customer service number"
+* **General:** "Hi" or "Thank you"
+
 ## 🔮 Future Scope
 * Integrate OpenAI API for generative responses.
 * Add a database to store user chat history.
