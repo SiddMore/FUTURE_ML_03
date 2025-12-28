@@ -46,6 +46,10 @@ A smart, NLP-based chatbot built with **Python** and **Streamlit**. This bot use
 3.  **Matching:** When a user asks a question, the system calculates the **Cosine Similarity** between the user's input and the known patterns.
 4.  **Response:** If the similarity score is above a threshold, it returns the appropriate response; otherwise, it triggers a fallback message.
 
+## 🌐 Live Deployment
+This project is fully deployed using **Streamlit Cloud**.
+👉 **[Click here to chat with the bot](https://customersupportbot01.streamlit.app/)**
+
 ## 🔮 Future Scope
 * Integrate OpenAI API for generative responses.
 * Add a database to store user chat history.
