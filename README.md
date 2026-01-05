@@ -16,8 +16,11 @@ A smart, NLP-based chatbot built with **Python** and **Streamlit**. This bot use
 ## 📂 Project Structure
 
 ├── app.py # Main application code 
+
 ├── intents.json # Dataset containing patterns and responses 
+
 ├── requirements.txt # List of dependencies 
+
 └── README.md # Project documentation
 
 ## ⚙️ Installation & Usage
